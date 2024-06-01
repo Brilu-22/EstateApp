@@ -36,3 +36,4 @@ To get started with LexEstates, follow these steps:
    git clone https://github.com/Brilu-22/LexEstates.git
    cd LexEstates
    ```
+   [![Watch the video](https://img.youtube.com/vi/lm0nUkYa4wM/maxresdefault.jpg)](https://www.youtube.com/watch?v=lm0nUkYa4wM)
