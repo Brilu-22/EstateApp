@@ -2,7 +2,7 @@
 
 # LexEstates
 
-![LexEstates](./client/reapp/public/image.png)
+![LexEstates](./client/reapp/public/sideheader.png)
 
 Welcome to LexEstates, your premier destination for finding the finest luxurious homes in the real estate market. Discover your dream home with LexEstates, where luxury living meets exceptional service.
 
