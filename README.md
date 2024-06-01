@@ -2,7 +2,7 @@
 
 # LexEstates
 
-(./client/reapp/public/image.png)
+![LexEstates](./client/reapp/public/image.png)
 
 Welcome to LexEstates, your premier destination for finding the finest luxurious homes in the real estate market. Discover your dream home with LexEstates, where luxury living meets exceptional service.
 
@@ -33,6 +33,6 @@ To get started with LexEstates, follow these steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Brilu.22/LexEstates.git
+   git clone https://github.com/Brilu-22/LexEstates.git
    cd LexEstates
    ```
